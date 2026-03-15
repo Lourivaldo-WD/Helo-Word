@@ -1,2 +1,2 @@
-# Helo-Word
+# Helo, Word!
 Primeiro repositório com Git
