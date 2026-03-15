@@ -1,3 +1,3 @@
 # Helo, Word!
 
-|Primeiro repositório com Git|
+| Primeiro repositório com Git |
